@@ -110,6 +110,3 @@ me**.
 - **Android** — Capacitor with a native audio playback service and a
   MediaSession-driven notification and lock-screen experience.
 
-## License
-
-© NØIR. All rights reserved.
